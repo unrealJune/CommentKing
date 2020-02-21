@@ -6,7 +6,7 @@
 import java.util.*;
 
                                                                                                    
-public class CommentKing
+public class ToshBossCommentKing
 {
    public static void main (String args[])
    {
