@@ -9,7 +9,6 @@ https://commentking.joshuaphilip1.repl.run/
 
 
 # Local Use
-
 Download Zip and Extract It.
 
 https://github.com/ToshBoss/CommentKing/releases
