@@ -5,7 +5,8 @@ WINDOWS ONLY - MUST HAVE JDK
 
 # Web Use
 Use this website
-https://repl.it/@JoshuaPhilip1/CommentKing
+https://commentking.joshuaphilip1.repl.run/
+
 
 # Local Use
 
