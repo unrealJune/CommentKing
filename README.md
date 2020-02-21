@@ -1,5 +1,6 @@
 # CommentKing
 AutoCommenter for AP Comp Sci A
+WINDOWS ONLY - MUST HAVE JDK
 
 
 # Use
