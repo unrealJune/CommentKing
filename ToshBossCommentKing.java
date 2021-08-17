@@ -1,5 +1,6 @@
 /*
  * Joshua Philip
+ *hewwo
  
  
  */
@@ -12,7 +13,8 @@ public class ToshBossCommentKing
    {
       //make console
       Scanner console  = new Scanner(System.in);
-      
+      System.out.println("");
+
       System.out.println("___________          .__   __________                     ");
       System.out.println("\\__    ___/___  _____|  |__\\______   \\ ____  ______ ______");
       System.out.println("  l    l /  _ \\/  ___/  l  \\l    l  _//  _ \\/  ___//  ___/");
